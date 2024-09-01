@@ -5,6 +5,7 @@ body, html{
     padding: 0;
     box-sizing: border-box;
     font-size: calc(12px + 0.390625vw);
+    scroll-behavior: smooth;
 }
 
 :root{

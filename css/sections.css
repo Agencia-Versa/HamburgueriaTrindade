@@ -195,6 +195,12 @@ footer p{
     background: var(--secondary-color);
     color: #ffffff;
     padding: var(--main-padding);
+    width: 100%;
+    padding: 0;
+}
+
+.footer-company p{
+    padding: 2rem;
 }
 
 .footer-company a{
